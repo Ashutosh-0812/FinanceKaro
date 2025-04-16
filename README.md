@@ -39,15 +39,14 @@
 
   <h2>📦 Getting Started</h2>
   <pre><code>git clone https://github.com/Ashutosh-0812/FinanceKaro.git
-cd financeflow
+cd financekaro
 npm install
 npm run dev</code></pre>
 
   <h2>🌐 Live Demo</h2>
-  <p>Visit the app here: <a href="https://your-vercel-link.vercel.app" target="_blank">https://your-vercel-link.vercel.app</a></p>
+  <p>Visit the app here: <a href="https://finance-karo.vercel.app" target="_blank">https://finance-karo.vercel.app</a></p>
 
-  <h2>🙌 Author</h2>
-  <p>Built by [Your Name], aspiring full-stack developer. Check out more projects on <a href="https://github.com/your-username" target="_blank">GitHub</a>.</p>
+  
 
 </body>
 </html>
