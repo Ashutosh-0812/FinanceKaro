@@ -7,8 +7,8 @@
 </head>
 <body>
 
-  <h1>📊 FinanceFlow</h1>
-  <p><strong>FinanceFlow</strong> is a modern personal finance tracking app built with <strong>Next.js, React, MongoDB, TypeScript</strong>, and <strong>Recharts</strong>. It helps users track expenses, categorize spending, and visualize financial data with interactive dashboards and charts.</p>
+  <h1>📊 FinanceKaro</h1>
+  <p><strong>FinanceKaro</strong> is a modern personal finance tracking app built with <strong>Next.js, React, MongoDB, TypeScript</strong>, and <strong>Recharts</strong>. It helps users track expenses, categorize spending, and visualize financial data with interactive dashboards and charts.</p>
 
   <h2>🚀 Features</h2>
   <ul>
