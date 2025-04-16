@@ -38,7 +38,7 @@
   </ul>
 
   <h2>📦 Getting Started</h2>
-  <pre><code>git clone https://github.com/your-username/financeflow.git
+  <pre><code>git clone https://github.com/Ashutosh-0812/FinanceKaro.git
 cd financeflow
 npm install
 npm run dev</code></pre>
