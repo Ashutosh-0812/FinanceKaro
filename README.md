@@ -43,7 +43,7 @@ cd financekaro
 npm install
 npm run dev</code></pre>
 
-h2>🔐 Environment Variables</h2>
+<h2>🔐 Environment Variables</h2>
   <p>Create a <code>.env.local</code> file in the root directory and add the following:</p>
   <pre><code># MongoDB connection URI
 MONGODB_URI=your_mongodb_connection_string</code></pre>
